@@ -7,5 +7,5 @@ The network is designed using Keras framework. I have taken help from [this note
 Here is one of the test image result:
 ![Image](https://github.com/Mushahid2521/Car_Segmentation/blob/master/image.PNG)
 ![mask](https://github.com/Mushahid2521/Car_Segmentation/blob/master/mask.PNG)
-![masked car](https://github.com/Mushahid2521/Car_Segmentation/blob/master/mask_img.PNG)
+                ![masked car](https://github.com/Mushahid2521/Car_Segmentation/blob/master/mask_img.PNG)
 
